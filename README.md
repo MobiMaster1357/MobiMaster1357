@@ -5,6 +5,17 @@
 Building sleek, scalable mobile experiences that feel like magic ✨—with React Native, Flutter, Kotlin or Swift.
 6+ years shipping apps that don’t just run… they fly.
 
+ **💪 Strongest Tech Stack 💪**
+  - React Native
+
+  - Flutter
+
+  - Kotlin
+
+  - Swift
+
+
+
 🔧 Clean architecture.
 
 ⚡ Blazing performance.
